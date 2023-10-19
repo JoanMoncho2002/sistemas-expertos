@@ -16,7 +16,7 @@ En los lenguajes declarativos, te centras en "qué" quieres lograr en lugar de "
 No se utilizan variables mutables ni se especifican los pasos exactos para llegar a la solución.
 Los lenguajes declarativos son comunes en áreas como la programación lógica y la manipulación de bases de datos.
 
-Un ejemplo de lenguaje imperativo podria ser SQL.
+Un ejemplo de lenguaje declarativo podria ser SQL.
 
 
 **2. Crea un mapa mental con freeplane, la raiz se llamará tipos de lenguajes, con dos hijos imperativos y declarativos, añadiendo sus tipos y ejemplos de lenguajes que lo usan, por ejemplo: imperativo, OOP, Java., en cada lenguaje indica para que se usan en general en la vida real y ejemplos de aplicaciones comerciales que lo usan.**
@@ -37,6 +37,6 @@ Un ejemplo de lenguaje imperativo podria ser SQL.
 
 **6. En el ejemplo en rojo que puedes encontrar mas abajo, haz que el código imprima "jirafa", ¿cómo lo has hecho?**
 
- Porque las reglas en el programa cumplen las condiciones necesarias, la regla "jirafa" se activa y muestra el mensaje "Es una jirafa" en la salida.
+ Porque las reglas en el programa cumplen las condiciones necesarias: (tiene-pelos) (rumia) (tiene-pezugnas) (tiene-cuello-largo), la regla "jirafa" se activa y muestra el mensaje "Es una jirafa" en la salida.
 
  ![image](https://github.com/JoanMoncho2002/sistemas-expertos/assets/92027740/80f7a414-4d8f-4952-9fe5-97071343ae15)
