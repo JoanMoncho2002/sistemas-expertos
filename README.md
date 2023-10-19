@@ -21,6 +21,8 @@ Un ejemplo de lenguaje declarativo podria ser SQL.
 
 **2. Crea un mapa mental con freeplane, la raiz se llamará tipos de lenguajes, con dos hijos imperativos y declarativos, añadiendo sus tipos y ejemplos de lenguajes que lo usan, por ejemplo: imperativo, OOP, Java., en cada lenguaje indica para que se usan en general en la vida real y ejemplos de aplicaciones comerciales que lo usan.**
 
+![image](https://github.com/JoanMoncho2002/sistemas-expertos/assets/92027740/39766a4d-8b3c-4c6f-8c07-035d4cf96b30)
+
 
 
 **3. Define que es un sistema experto y que tipo de tareas se pueden resolver con él. Pon ejemplos reales de sistemas expertos, que hacen y donde se utilizan.**
@@ -29,7 +31,13 @@ Un ejemplo de lenguaje declarativo podria ser SQL.
 
 **4. ¿Qué es CLIPS?, quién lo crea, en que año, se sigue manteniendo en la actualidad, acaba de completar con datos que consideres interesantes.**
 
- 
+CLIPS es un sistema experto y lenguaje de programación desarrollado por la NASA (National Aeronautics and Space Administration) en la década de 1980. Se utiliza para la creación de sistemas expertos, que son programas de inteligencia artificial diseñados para imitar la toma de decisiones y el razonamiento humano en un dominio específico.
+
+CLIPS es ampliamente conocido por su capacidad para representar y manipular reglas de producción, que son declaraciones condición-acción utilizadas para definir el conocimiento y el razonamiento en sistemas expertos. CLIPS también proporciona un entorno de desarrollo interactivo y un intérprete que permite a los desarrolladores diseñar y probar sistemas expertos de manera eficiente.
+
+El sistema CLIPS es de código abierto y se ha utilizado en una variedad de aplicaciones, desde diagnóstico médico hasta sistemas de control de misión en el campo de la exploración espacial. Es una herramienta valiosa para el desarrollo de sistemas basados en reglas y sistemas expertos en una amplia gama de campos.
+
+
 
 **5. ¿Cual es el futuro de los sistemas expertos con el auge de la inteligencia artificial, es decir como afectará la IA a los SE?**
 
