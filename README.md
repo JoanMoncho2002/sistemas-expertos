@@ -2,7 +2,22 @@
 
 **1. Define que son lenguajes imperativos y declarativos.**
 
- 
+*Lenguajes Imperativos:*
+
+En los lenguajes imperativos, se le dice a la maquina cómo realizar una tarea paso a paso. Se centra en "cómo" se deben realizar las operaciones.
+Utiliza variables, estructuras de control (como bucles y condicionales) y procedimientos o funciones para modificar el estado de las variables.
+Es más adecuado para programación de bajo nivel, como programación de sistemas y control de hardware.
+
+Un ejemplo de lenguaje imperativo podria ser Java, C++ o C#.
+
+*Lenguajes Declarativos:*
+
+En los lenguajes declarativos, te centras en "qué" quieres lograr en lugar de "cómo" se debe hacer. Especificas un objetivo o resultado deseado y dejas que el sistema determine cómo lograrlo.
+No se utilizan variables mutables ni se especifican los pasos exactos para llegar a la solución.
+Los lenguajes declarativos son comunes en áreas como la programación lógica y la manipulación de bases de datos.
+
+Un ejemplo de lenguaje imperativo podria ser SQL.
+
 
 **2. Crea un mapa mental con freeplane, la raiz se llamará tipos de lenguajes, con dos hijos imperativos y declarativos, añadiendo sus tipos y ejemplos de lenguajes que lo usan, por ejemplo: imperativo, OOP, Java., en cada lenguaje indica para que se usan en general en la vida real y ejemplos de aplicaciones comerciales que lo usan.**
 
