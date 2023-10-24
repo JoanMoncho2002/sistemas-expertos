@@ -27,7 +27,31 @@ Un ejemplo de lenguaje declarativo podria ser SQL.
 
 **3. Define que es un sistema experto y que tipo de tareas se pueden resolver con él. Pon ejemplos reales de sistemas expertos, que hacen y donde se utilizan.**
 
- 
+Un sistema experto es un programa de software o hardware que utiliza un conjunto de conocimientos especializados y reglas lógicas para simular el razonamiento y la toma de decisiones de un experto humano en un dominio específico. Está diseñado para resolver problemas complejos y brindar recomendaciones o soluciones precisas.
+
+
+Por supuesto, aquí tienes los puntos clave en negrita:
+
+Definición:
+Un sistema experto es un programa de software o hardware que utiliza un conjunto de conocimientos especializados y reglas lógicas para simular el razonamiento y la toma de decisiones de un experto humano en un dominio específico.
+
+Tareas Resueltas por Sistemas Expertos:
+Diagnóstico Médico
+Asesoramiento Legal
+Mantenimiento y Reparación de Equipos
+Planificación de Rutas y Logística
+Detección de Fraudes
+Soporte al Cliente
+Diseño y Manufactura
+Control de Procesos Industriales
+
+Ejemplos de Sistemas Expertos:
+MYCIN
+Dendral
+XCON
+Deep Blue
+Watson
+RULDS3
 
 **4. ¿Qué es CLIPS?, quién lo crea, en que año, se sigue manteniendo en la actualidad, acaba de completar con datos que consideres interesantes.**
 
@@ -37,11 +61,11 @@ CLIPS es ampliamente conocido por su capacidad para representar y manipular regl
 
 El sistema CLIPS es de código abierto y se ha utilizado en una variedad de aplicaciones, desde diagnóstico médico hasta sistemas de control de misión en el campo de la exploración espacial. Es una herramienta valiosa para el desarrollo de sistemas basados en reglas y sistemas expertos en una amplia gama de campos.
 
-
+Sigue siendo una herramienta útil para desarrollar sistemas expertos y reglas de inferencia en una variedad de aplicaciones.
 
 **5. ¿Cual es el futuro de los sistemas expertos con el auge de la inteligencia artificial, es decir como afectará la IA a los SE?**
 
-
+El futuro de los sistemas expertos (SE) se ve influenciado por la inteligencia artificial (IA). La IA puede mejorar la toma de decisiones, automatizar tareas, permitir una interacción más natural, facilitar el aprendizaje continuo y favorecer sistemas híbridos que combinan SE y técnicas de IA. También simplifica el desarrollo y el mantenimiento de SE, aunque plantea desafíos éticos. La IA fomenta la investigación y los avances en SE, lo que promete aplicaciones innovadoras y un mayor alcance en el futuro.
 
 **6. En el ejemplo en rojo que puedes encontrar mas abajo, haz que el código imprima "jirafa", ¿cómo lo has hecho?**
 
