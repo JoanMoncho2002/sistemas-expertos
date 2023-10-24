@@ -36,22 +36,22 @@ Definición:
 Un sistema experto es un programa de software o hardware que utiliza un conjunto de conocimientos especializados y reglas lógicas para simular el razonamiento y la toma de decisiones de un experto humano en un dominio específico.
 
 Tareas Resueltas por Sistemas Expertos:
-Diagnóstico Médico
-Asesoramiento Legal
-Mantenimiento y Reparación de Equipos
-Planificación de Rutas y Logística
-Detección de Fraudes
-Soporte al Cliente
-Diseño y Manufactura
-Control de Procesos Industriales
+Diagnóstico Médico,
+Asesoramiento Legal,
+Mantenimiento y Reparación de Equipos,
+Planificación de Rutas y Logística,
+Detección de Fraudes,
+Soporte al Cliente,
+Diseño y Manufactura,
+Control de Procesos Industriales.
 
 Ejemplos de Sistemas Expertos:
-MYCIN
-Dendral
-XCON
-Deep Blue
-Watson
-RULDS3
+MYCIN,
+Dendral,
+XCON,
+Deep Blue,
+Watson,
+RULDS3.
 
 **4. ¿Qué es CLIPS?, quién lo crea, en que año, se sigue manteniendo en la actualidad, acaba de completar con datos que consideres interesantes.**
 
